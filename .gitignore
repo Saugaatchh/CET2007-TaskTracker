@@ -1,0 +1,16 @@
+## .NET Build Artefacts
+bin/
+obj/
+
+## IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## macOS
+.DS_Store
+
+## Data files generated at runtime
+data/
