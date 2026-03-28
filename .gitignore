@@ -12,5 +12,4 @@ obj/
 ## macOS
 .DS_Store
 
-## Data files generated at runtime
-data/
+## Data files generated at runtime are ignored via bin/
